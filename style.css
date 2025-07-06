@@ -152,14 +152,14 @@ body {
 
 /* Who For Section */
 #who-for {
-    padding: 80px;
+   
     background-color: #e8f5e9;
 }
 
 .who-for-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 40px;
+    gap: 30px;
 }
 
 .who-for-card {
@@ -180,7 +180,7 @@ body {
 }
 
 .who-for-card p {
-    padding: 0 20px 20px;
+    padding:20px;
 }
 
 /* Products Section */
