@@ -289,7 +289,14 @@ body {
 
 /* Order Section */
 #order {
-    padding: 80px 0;
+    padding: 20px;
+}
+
+.delivery-info {
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: italic;
+    color: #555;
 }
 
 #order-form {
